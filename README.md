@@ -16,7 +16,7 @@
 <br>
 
 <p align="center">
-  <img alt="Mod" src=".github/capture.png" width="50%">
+  <img alt="Capture" src=".github/capture.png" width="50%">
 </p>
 
 ## 🚀 Tecnologias
