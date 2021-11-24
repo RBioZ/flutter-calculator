@@ -1,16 +1,43 @@
-# calculator
+<h1 align="center">
+    Flutter Calculator
+</h1>
 
-A new Flutter project.
+<p align="center">
+ <img src="https://img.shields.io/static/v1?label=Version&message=1.0.0&color=fa9e0d&labelColor=000000" alt="PRs welcome!" />
 
-## Getting Started
+  <img alt="License" src="https://img.shields.io/static/v1?label=License&message=MIT&color=fa9e0d&labelColor=000000">
+</p>
 
-This project is a starting point for a Flutter application.
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+<br>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<p align="center">
+  <img alt="Mod" src=".github/capture.png" width="50%">
+</p>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- [Flutter](https://github.com/flutter)
+
+## 📰 Projeto
+
+Projeto de calculadora desenvolvido a fins de estudo
+
+## 💻 Instalação
+
+```bash
+# Clone this repository
+$ git clone https://github.com/RBioZ/calculadora-flutter
+
+# Go into the repository
+$ cd calculadora-flutter
+
+# Install dependencies
+$ flutter start
+```
