@@ -16,7 +16,7 @@
 <br>
 
 <p align="center">
-  <img alt="Capture" src=".github/capture.png" width="50%">
+  <img alt="Capture" src="https://github.com/RBioZ/flutter-calculator/blob/master/.github/capture.PNG" width="50%">
 </p>
 
 ## 🚀 Tecnologias
